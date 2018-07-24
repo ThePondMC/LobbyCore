@@ -1,0 +1,6 @@
+name: LobbyCore
+author: GamerDuck123
+main: me.garrett.lobby.CoreMain
+version: 1.0
+description: >
+             A plugin to auction off items globally.
